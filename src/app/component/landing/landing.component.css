@@ -1,0 +1,13 @@
+.containe{
+    background-image: url('https://www.radiofrance.fr/s3/cruiser-production/2022/02/fe080273-5f12-40c2-a87b-de26ef5c6369/870x489_4108032-jpg-r-1920-1080-f-jpg-q-x-xxyxx.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding: 20rem 7rem;
+}
+.btn {
+    color: white;
+}
+.btn-outline-light:hover{
+    color: black;
+}

@@ -1,0 +1,21 @@
+.all{
+    margin:10rem;
+    /* padding-top: 5rem; */
+}
+.col.text-center hr{
+    width: 70%;
+    height: 9px;
+    margin: auto;
+}
+.progress {
+    height: 30px;
+    margin-bottom: 30px;
+}
+.progress.bg-white>span{
+    width: 20%;
+    text-align: center;
+}
+.col.text-center ul li{
+    list-style: none;
+    margin: 20px 0;
+}

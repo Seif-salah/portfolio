@@ -1,0 +1,11 @@
+.card {
+    width: 250px;
+    height: 150px;
+    color: white;
+    text-align: center;
+    margin: 20px auto;
+    cursor: pointer;
+}
+.card h3{
+    margin-top: 20%;
+}
